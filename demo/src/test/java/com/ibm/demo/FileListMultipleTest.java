@@ -20,7 +20,7 @@ import org.junit.Test;
 
 public class FileListMultipleTest extends TestCase{
 
-	private String path = "tmp\\";
+	private String path = "\\";
 
 	/**
 	 * add(E arg0)のテスト--投入したオブジェクトがFileListSingleImplに、addされることを確認する。

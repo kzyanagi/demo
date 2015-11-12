@@ -19,7 +19,7 @@ import org.junit.Test;
 
 public class FileListSingleTest extends TestCase{
 
-	private String path = "tmp\\";
+	private String path = "";
 
 
 	/**
